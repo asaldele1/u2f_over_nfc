@@ -1,6 +1,6 @@
 # U2F over NFC for Flipper Zero
 
-This application allows your Flipper Zero to act as a FIDO U2F security key over NFC. You can use it to securely authenticate on supported devices and services just by tapping your Flipper to your phone.
+This application allows your Flipper Zero to act as a FIDO U2F security key over NFC. You can use it to securely authenticate on supported services just by tapping your Flipper to your phone.
 
 ## Features
 
